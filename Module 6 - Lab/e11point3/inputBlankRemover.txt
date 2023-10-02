@@ -1,0 +1,7 @@
+
+
+
+This is line 4 of the textfile being input with 3 blank lines before, and should be line 1 after output with no blank lines before.
+This is line 5 of the textfile being input with 3 blank lines after, and should be line 5 after output with no blank lines after.
+
+
